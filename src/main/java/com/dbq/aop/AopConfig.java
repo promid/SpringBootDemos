@@ -1,4 +1,4 @@
-package com.dbq.config;
+package com.dbq.aop;
 
 import org.springframework.context.annotation.ComponentScan;
 import org.springframework.context.annotation.Configuration;
