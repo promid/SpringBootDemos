@@ -22,4 +22,5 @@ public class JSR250WayService {
     public void destroy(){
         System.out.println("@JSR250-destroy-method");
     }
+    
 }
